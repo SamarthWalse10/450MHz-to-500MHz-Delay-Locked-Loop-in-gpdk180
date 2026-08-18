@@ -55,33 +55,37 @@ The DLL was rigorously simulated to ensure robust locking across the extreme PVT
 ## Result Imagery
 
 * **VCDL Single Stage & Full Architecture Schematic:**
-<img width="1910" height="654" alt="vcdl_schematic" src="https://github.com/user-attachments/assets/placeholder-link-1" />
+<img width="899" height="941" alt="vcdu_schematic" src="https://github.com/user-attachments/assets/e18fa4d5-6896-4645-a717-8bf06a8a3ea9" />
+<img width="2370" height="596" alt="vcdl_schematic" src="https://github.com/user-attachments/assets/180b01cd-b3d4-43bd-92cc-52acbb5b82a0" />
 &nbsp;
 
 * **TSPC PFD Architecture:**
-<img width="1910" height="654" alt="pfd_schematic" src="https://github.com/user-attachments/assets/placeholder-link-2" />
+<img width="2312" height="992" alt="dff_TSPC_schematic" src="https://github.com/user-attachments/assets/c50f3d83-5e2e-4f14-bcbe-fbf90aa4cdf1" />
+<img width="2328" height="971" alt="pfd_TSPC_schematic" src="https://github.com/user-attachments/assets/3d30c722-353d-4bb8-a187-13072eedef74" />
 &nbsp;
 
 * **Source-Switched Charge Pump:**
-<img width="1910" height="654" alt="charge_pump_schematic" src="https://github.com/user-attachments/assets/placeholder-link-3" />
+<img width="1719" height="981" alt="qpump_srcSwitch_schematic" src="https://github.com/user-attachments/assets/36ba7bc1-bca2-414f-a3ce-e2cea6c8bb26" />
 &nbsp;
 
 * **VCDL Delay, Gain, and Power Characteristics:**
-<img width="1910" height="654" alt="vcdl_characteristics" src="https://github.com/user-attachments/assets/placeholder-link-4" />
+<img width="1910" height="654" alt="TpLH vs Vc for PVT Corners" src="https://github.com/user-attachments/assets/6c71bdbb-3c7e-442b-a34d-cdb2eeb4435f" />
+<img width="1910" height="653" alt="Kdl vs Vc for PVT Corners" src="https://github.com/user-attachments/assets/713cf01f-14d1-4d7c-9516-369e7f564743" />
+<img width="1910" height="654" alt="Pdl vs Vc for PVT Corners" src="https://github.com/user-attachments/assets/91b49e24-3953-49c2-8975-2fc6ddee0aa7" />
 &nbsp;
 
 * **Fast Corner Locking Transient (450 MHz, 0°C, 1.89V):**
-<img width="1910" height="654" alt="fast_transient_settling" src="https://github.com/user-attachments/assets/placeholder-link-5" />
+<img width="1910" height="654" alt="Transient Analysis Settling State FF" src="https://github.com/user-attachments/assets/cf97b004-6a63-41b7-9ae1-d8756e754ba3" />
 &nbsp;
 
 * **Fast Corner Steady-State SPO:**
-<img width="1910" height="654" alt="fast_spo" src="https://github.com/user-attachments/assets/placeholder-link-6" />
+<img width="1910" height="654" alt="Transient Analysis Steady State FF" src="https://github.com/user-attachments/assets/3591cd39-95f7-4723-9a50-71e5b692c90d" />
 &nbsp;
 
 * **Slow Corner Locking Transient (500 MHz, 70°C, 1.71V):**
-<img width="1910" height="654" alt="slow_transient_settling" src="https://github.com/user-attachments/assets/placeholder-link-7" />
+<img width="1910" height="654" alt="Transient Analysis Settling State SS" src="https://github.com/user-attachments/assets/cee45839-41b3-46f5-8a3d-4573ffe259f4" />
 &nbsp;
 
 * **Slow Corner Steady-State SPO:**
-<img width="1910" height="654" alt="slow_spo" src="https://github.com/user-attachments/assets/placeholder-link-8" />
+<img width="1910" height="654" alt="Transient Analysis Steady State SS" src="https://github.com/user-attachments/assets/f1280531-6c4e-4a17-8ce8-d80ce85f71c8" />
 &nbsp;
